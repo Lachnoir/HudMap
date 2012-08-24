@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="HUDMAPTOGGLEHUDMAP" description="Toggle the HUD map On or Off" header="HUDMAP">
+		HudMap:Toggle()
+	</Binding>
+</Bindings>
